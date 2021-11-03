@@ -38,7 +38,7 @@ sections:
         content: >-
           Obichno mu se dava na Venco Mladiot da tura kisela voda vo chasha. Golema odgovornost
           e toa.
-        image: images/istura.png
+        image: images/istura.jpeg
         image_alt: Venco Istura Voda
         media_position: right
         media_width: sixty
