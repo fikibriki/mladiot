@@ -5,10 +5,6 @@ sections:
     title: Zdravo, Jas sum Venco Mladiot
     subtitle: >-
       Jas rabotam vo Forca i vo Bistro Komedija, ponekogash rabotam dupli smeni i posle rabota glavam do 4 sabajle. Mnogu sum kulturen i bolje shanker sum od Kaza seljachishteto.
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: primary
     image: images/venco.png
     image_alt: A smiling woman
     media_position: right
