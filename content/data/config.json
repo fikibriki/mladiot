@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Personal Theme",
+    "title": "Venco Mladiot",
     "path_prefix": "/",
     "layout_type": "boxed",
     "style": "classic",
@@ -8,9 +8,9 @@
     "base_font": "serif",
     "header": {
         "title": "Personal",
-        "logo": "images/logo.svg",
+        "logo": "images/logo(2).svg",
         "logo_alt": "Personal logo",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_links": [
             {
                 "label": "About",
@@ -31,9 +31,9 @@
         "has_secondary_nav": false
     },
     "footer": {
-        "logo": "images/logo.svg",
+        "logo": "images/logo(2).svg",
         "logo_alt": "Personal logo",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_links": [
             {
                 "label": "About",
@@ -51,7 +51,7 @@
                 "style": "link"
             }
         ],
-        "has_secondary_nav": true,
+        "has_secondary_nav": false,
         "secondary_nav_links": [
             {
                 "label": "Style Guide",
@@ -73,53 +73,8 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "twitter",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "github",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "linkedin",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "YouTube",
-                "url": "https://www.youtube.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "youtube",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "Vimeo",
-                "url": "https://vimeo.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "vimeo",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
                 "label": "Instagram",
-                "url": "https://instagram.com/",
+                "url": "https://instagram.com/veni.crvenkoski/",
                 "style": "link",
                 "has_icon": true,
                 "icon": "instagram",
@@ -127,14 +82,6 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=personal&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
-    },
-    "announcement": {
-        "has_anncmnt": true,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
-        "anncmnt_align": "left",
-        "anncmnt_is_home_only": true,
-        "anncmnt_has_close": true,
-        "anncmnt_id": "new-features"
+        "content": "&copy; Venco Mladiot. All rights reserved."
     }
 }
